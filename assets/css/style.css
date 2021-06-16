@@ -522,6 +522,8 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+Commenting the section
 .about {
   background: url("../img/about-bg.jpg") center center no-repeat;
   background-size: cover;
@@ -539,7 +541,7 @@ section {
   background: rgba(255, 255, 255, 0.75);
   z-index: 9;
 }
-
+--------------------------------------------------------------*/
 .about .container {
   position: relative;
   z-index: 10;
